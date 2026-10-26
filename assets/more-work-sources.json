@@ -1,0 +1,32 @@
+{
+  "dirham": {
+    "provider": "Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.dirham365.dirham",
+    "assets": [
+      "https://play-lh.googleusercontent.com/yw4OgYCYsjNHb1wREA_29zqjY-aiB12r67vHPcyHdGFvqGt0xPq0zV0L0LsxPSy4Z9V628iNao8cloPIDtd5=s512",
+      "https://play-lh.googleusercontent.com/N9I0OaNP3wtmg1ZV8na7CvtAmV89riTUYjgL-dBU0siWdDmtCoz5W9XfYFD6ewY2atMwtqCaa8cpXf1vhjQm3dU=w600",
+      "https://play-lh.googleusercontent.com/GSxtYExEBOV3KurkEHAPmueFvZ6IskphaW6Yx7W35YQt6cgGc8XXM_ug5czo92w_c5dfBiCZMmOP05oqeurGfCc=w600",
+      "https://play-lh.googleusercontent.com/z5pO3JxyrH3qvnQz2xmV4PLsP6IsdKbboMjmUTjvbQtWFO8_fmCueJD4ckL71SK6xLJJqw-pVyi5VLn4EK6Zs34=w600"
+    ]
+  },
+  "clickingshop": {
+    "provider": "Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.royalx.clickingshop",
+    "assets": [
+      "https://play-lh.googleusercontent.com/Z_BXv8D7Xx96n1swbyom3t-LvrWJBU5Ay2yh9Ql7j4sk7BjLgIgRknMyISMIrsXhrib48PK4KkOuOD72bUJG=s512",
+      "https://play-lh.googleusercontent.com/dj3MJvAUMlOxCD1RB6HiwLs0boCmgMoHzpjQXySHOni-G5LMB1JE7hJd0EX9IxgycA9947ymsNGiFgoTGlJC=w600",
+      "https://play-lh.googleusercontent.com/epmAxQpbAVDI11MTB2i5dF-Qvb8jh5-pjKdTPTGoMMUngKjAAua7EioFYTeJ1DCJEDXaod6DXqIh0UslUeMe=w600",
+      "https://play-lh.googleusercontent.com/v08PU5hEOuAp5ZUWQ5qDAa7UMzwmfOhkGLiyxHA3730YlE0w5s1mJ4XnalPVjr20vyIBKSrWDGIlz-X2b71_kg=w600"
+    ]
+  },
+  "nightwatch": {
+    "provider": "Apple App Store",
+    "url": "https://apps.apple.com/us/app/night-watch-responders/id6743240812?uo=4",
+    "assets": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d0/f5/05d0f548-f62d-52ff-04ee-2a8219d849fe/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/fb/44/76fb448a-504e-8dc4-3388-47d020bb0fef/Screenshot_2025-03-13_at_11.51.50_PM_optimized.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/d2/a6/92d2a653-2f63-f461-0224-0ec89b0b6252/Screenshot_2025-03-13_at_11.57.13_PM_optimized.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/4b/3f/7c4b3f82-9fdb-cecc-565b-f22e2f191276/Screenshot_2025-03-13_at_11.57.27_PM_optimized.png/600x1300bb.jpg"
+    ]
+  }
+}

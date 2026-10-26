@@ -92,10 +92,25 @@ AI is part of my daily workflow: I use it to explore, build and debug faster, th
 
 ### More apps
 
-- **NightWatch** — [Android app](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchag) · [Admin app](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchadminag) · [iOS Responders app](https://apps.apple.com/us/app/night-watch-responders/id6743240812)
-- **Dirham** — [View on the App Store](https://apps.apple.com/app/dirham/id6743340811)
-- **SnapVoice AI** — [View on Google Play](https://play.google.com/store/apps/details?id=com.snapvoiceai.app)
-- **ClickingShop** — [View on the App Store](https://apps.apple.com/us/app/clickingshop/id6742814884)
+<a href="https://apps.apple.com/us/app/night-watch-responders/id6743240812"><img src="assets/nightwatch-showcase.gif" width="100%" alt="NightWatch — real app logo and animated Night Watch Responders screenshots showing welcome, emergency request and chat screens." /></a>
+
+**[iOS Responders app ↗](https://apps.apple.com/us/app/night-watch-responders/id6743240812)** &nbsp; · &nbsp; **[Android app ↗](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchag)** &nbsp; · &nbsp; **[Admin app ↗](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchadminag)** &nbsp; · &nbsp; [Full-resolution preview](assets/nightwatch-showcase.png)
+
+<br />
+
+<a href="https://play.google.com/store/apps/details?id=com.dirham365.dirham"><img src="assets/dirham-showcase.gif" width="100%" alt="Dirham — real app logo and animated marketplace screenshots showing service discovery, map location selection and inbox workflows." /></a>
+
+**[Google Play ↗](https://play.google.com/store/apps/details?id=com.dirham365.dirham)** &nbsp; · &nbsp; [Full-resolution preview](assets/dirham-showcase.png)
+
+<br />
+
+<a href="https://play.google.com/store/apps/details?id=com.royalx.clickingshop"><img src="assets/clickingshop-showcase.gif" width="100%" alt="ClickingShop — real app logo and animated shopping screenshots showing home, product details and shopping cart." /></a>
+
+**[Google Play ↗](https://play.google.com/store/apps/details?id=com.royalx.clickingshop)** &nbsp; · &nbsp; [Full-resolution preview](assets/clickingshop-showcase.png)
+
+<br />
+
+**Also in my portfolio:** [SnapVoice AI ↗](https://play.google.com/store/apps/details?id=com.snapvoiceai.app)
 
 ### Public code
 
