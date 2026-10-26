@@ -1,8 +1,9 @@
 """Package rendered SVG-layout frames as GitHub-compatible looping GIFs."""
 from pathlib import Path
 from PIL import Image
+import sys
 root=Path(__file__).resolve().parents[1]
-for folder in sorted(Path('/tmp/github-portfolio-motion').iterdir()):
+for folder in sorted(Path(sys.argv[1] if len(sys.argv)>1 else '/tmp/github-portfolio-motion').iterdir()):
  files=sorted(folder.glob('*.png'))
  if len(files)!=32:raise RuntimeError(f'Expected 32 frames: {folder}')
  frames=[Image.open(p).convert('RGB') for p in files]

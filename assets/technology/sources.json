@@ -1,0 +1,21 @@
+{
+  "provider": "Devicon \u2014 brand technology icons",
+  "project": "https://github.com/devicons/devicon",
+  "icons": {
+    "flutter": "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg",
+    "dart": "https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg",
+    "firebase": "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg",
+    "react": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    "expo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg",
+    "laravel": "https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg",
+    "php": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
+    "html": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+    "css": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    "javascript": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    "nodejs": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    "git": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    "github": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    "androidstudio": "https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg",
+    "xcode": "https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"
+  }
+}

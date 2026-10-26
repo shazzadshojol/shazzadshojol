@@ -9,3 +9,9 @@ The showcase layouts use a four-second loop with gentle floating screenshots. Se
 Each app also has a full-resolution PNG preview. README alt text describes the artwork and normal links remain available below every card.
 
 To rebuild: run `node tools/build_portfolio.mjs` with Sharp available, followed by `python3 tools/pack_motion.py` with Pillow installed. SVG frame renders use a temporary directory outside the repository. Source assets, layout SVGs, static PNGs, and final GIFs are committed so no external image service is needed at display time.
+
+## Skills and services
+
+`build_skills_services.mjs` builds only the skill and service boards, leaving the hero and app showcases unchanged. Technology SVGs are sourced from Devicon; the source manifest and license are in `assets/technology/`. React's logo identifies React Native. Skill groups distinguish primary focus, additional experience, basic JavaScript/Node.js knowledge, and everyday tools.
+
+Run `node tools/build_skills_services.mjs`, then `python3 tools/pack_motion.py /tmp/github-profile-skills-services`. Each board has an animated GIF and a full-resolution PNG. All text remains visible while the card accents move.

@@ -52,13 +52,9 @@ AI is part of my daily workflow: I use it to explore, build and debug faster, th
 
 <img src="assets/services-motion.gif" width="100%" alt="From an idea to a working app. New builds, unfinished products, integrations and release support." />
 
-| Your project needs | How I can help |
-| :--- | :--- |
-| **A mobile app from an idea or design** | Flutter UI, features, navigation and backend connections for Android and iOS. |
-| **An unfinished or AI-generated app** | Review the existing code, fix broken flows and complete missing features. |
-| **Connected product features** | Authentication, REST APIs, Firebase, AI services, notifications and subscriptions. |
-| **A backend or admin dashboard** | Laravel/PHP APIs, app management tools and connected web interfaces. |
-| **A reliable next release** | Bug fixes, affected-flow testing, store builds and release preparation. |
+<img src="assets/services-cards.gif" width="100%" alt="Services: Flutter mobile app development; completion of unfinished or AI-generated apps; Firebase, REST API and AI integrations; Laravel/PHP backends and admin dashboards; debugging, Android builds and iOS release support. Animated cards with the real Flutter, Dart, GitHub, Firebase, Laravel, PHP, Android Studio and Xcode logos." />
+
+[View the service cards in full resolution](assets/services-cards.png)
 
 <br />
 
@@ -66,10 +62,21 @@ AI is part of my daily workflow: I use it to explore, build and debug faster, th
 
 <img src="assets/toolbox-motion.gif" width="100%" alt="A practical, connected toolbox. Flutter at the core, with mobile, web and backend skills around it." />
 
-**Core focus** &nbsp; Flutter · Dart · Firebase · REST API integration<br />
-**Also work with** &nbsp; React Native · Expo · Laravel · PHP · HTML · CSS<br />
-**Foundational knowledge** &nbsp; JavaScript · Node.js<br />
-**Everyday workflow** &nbsp; Git · GitHub · Android Studio · Xcode · AI-assisted development
+<img src="assets/skills-core.gif" width="100%" alt="Core skills: Flutter for mobile development, Dart for application logic, and Firebase for connected app services. Real technology logos in animated cards." />
+
+<br />
+
+<img src="assets/skills-product.gif" width="100%" alt="Also work with: React Native, Expo, Laravel, PHP, HTML and CSS. Real technology logos in animated cards." />
+
+<br />
+
+<img src="assets/skills-foundations.gif" width="100%" alt="Foundational knowledge: basic JavaScript and basic Node.js. Real technology logos in animated cards." />
+
+<br />
+
+<img src="assets/skills-workflow.gif" width="100%" alt="Everyday development tools: Git, GitHub, Android Studio and Xcode. Real technology logos in animated cards." />
+
+[Core skills preview](assets/skills-core.png) &nbsp; · &nbsp; [Product skills preview](assets/skills-product.png) &nbsp; · &nbsp; [Foundations preview](assets/skills-foundations.png) &nbsp; · &nbsp; [Tools preview](assets/skills-workflow.png)
 
 <br />
 
@@ -83,12 +90,14 @@ AI is part of my daily workflow: I use it to explore, build and debug faster, th
 
 **[Watch website demos ↗](https://www.youtube.com/watch?v=5krdn9JUgvQ&list=PLYxyiUXhaAEs)** &nbsp; · &nbsp; **[Watch admin dashboard demos ↗](https://www.youtube.com/watch?v=yLp8FOYTnjI&list=PLBmGb1G_Iox4)**
 
-<details>
-<summary><b>Explore more apps and public code</b></summary>
+### More apps
 
-<br />
+- **NightWatch** — [Android app](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchag) · [Admin app](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchadminag) · [iOS Responders app](https://apps.apple.com/us/app/night-watch-responders/id6743240812)
+- **Dirham** — [View on the App Store](https://apps.apple.com/app/dirham/id6743340811)
+- **SnapVoice AI** — [View on Google Play](https://play.google.com/store/apps/details?id=com.snapvoiceai.app)
+- **ClickingShop** — [View on the App Store](https://apps.apple.com/us/app/clickingshop/id6742814884)
 
-More apps in my portfolio: [NightWatch](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchag), [NightWatch Admin](https://play.google.com/store/apps/details?id=com.nightwatch.nightwatchadminag), [Night Watch Responders](https://apps.apple.com/us/app/night-watch-responders/id6743240812), [Dirham](https://apps.apple.com/app/dirham/id6743340811), [SnapVoice AI](https://play.google.com/store/apps/details?id=com.snapvoiceai.app) and [ClickingShop](https://apps.apple.com/us/app/clickingshop/id6742814884).
+### Public code
 
 Public Flutter projects and learning explorations:
 
@@ -98,7 +107,6 @@ Public Flutter projects and learning explorations:
 
 [Browse all public repositories ↗](https://github.com/shazzadshojol?tab=repositories)
 
-</details>
 
 <br />
 
