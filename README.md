@@ -11,7 +11,7 @@
 
 <br />
 
-### A little about me
+<img src="assets/about-motion.gif" width="100%" alt="A developer behind every decision. AI helps me move faster. Experience guides the result." />
 
 I'm **Shazzad Hossain**, a Flutter developer who builds mobile apps, connects backends and takes unfinished products toward release. I work across **Flutter, React Native, Laravel and PHP**, with a practical understanding of the web stack.
 
@@ -21,34 +21,36 @@ AI is part of my daily workflow: I use it to explore, build and debug faster, th
 
 ## Selected work
 
-Recent apps I've worked on, from AI-powered shopping and fashion to reading and personal progress tracking.
+<img src="assets/work-motion.gif" width="100%" alt="Selected work. Real products. Four recent apps, from the first screen to the next release." />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://apps.apple.com/us/app/groc-nutrition-label-scanner/id6755927614"><img src="assets/groc.svg" width="100%" alt="GROC AI — Flutter food-label scanner with personalized nutrition and ingredient insights. App Store and Google Play." /></a>
-<p align="center"><a href="https://apps.apple.com/us/app/groc-nutrition-label-scanner/id6755927614">App Store ↗</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=app.thinka.groc">Google Play ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://apps.apple.com/us/app/klod-ai-virtual-try-on/id6762509336"><img src="assets/klod.svg" width="100%" alt="KLOD — Flutter AI virtual try-on, digital wardrobe and saved outfit collection. App Store and Google Play." /></a>
-<p align="center"><a href="https://apps.apple.com/us/app/klod-ai-virtual-try-on/id6762509336">App Store ↗</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=app.thinka.klodmain">Google Play ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://apps.apple.com/us/app/readlens-ai-text-analyzer/id6761712530"><img src="assets/readlens.svg" width="100%" alt="ReadLens — React Native and Expo AI text analyzer. Highlight words for definitions, contextual explanations and examples." /></a>
-<p align="center"><a href="https://apps.apple.com/us/app/readlens-ai-text-analyzer/id6761712530">App Store ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="assets/densy.svg" width="100%" alt="DENSY — Flutter hair progress app with guided photos, daily routines and progress charts. Preparing for launch." />
-<p align="center">Preparing for launch &nbsp; · &nbsp; Store link coming after release</p>
-</td>
-</tr>
-</table>
+<a href="https://apps.apple.com/us/app/groc-nutrition-label-scanner/id6755927614"><img src="assets/groc-showcase.gif" width="100%" alt="GROC AI — real app logo and animated nutrition-label scanner screenshots. Built with Flutter and Laravel." /></a>
+
+**[App Store ↗](https://apps.apple.com/us/app/groc-nutrition-label-scanner/id6755927614)** &nbsp; · &nbsp; **[Google Play ↗](https://play.google.com/store/apps/details?id=app.thinka.groc)** &nbsp; · &nbsp; [Full-resolution preview](assets/groc-showcase.png)
+
+<br />
+
+<a href="https://apps.apple.com/us/app/klod-ai-virtual-try-on/id6762509336"><img src="assets/klod-showcase.gif" width="100%" alt="KLOD — real app logo and animated virtual try-on, digital wardrobe and clothing screenshots. Built with Flutter." /></a>
+
+**[App Store ↗](https://apps.apple.com/us/app/klod-ai-virtual-try-on/id6762509336)** &nbsp; · &nbsp; **[Google Play ↗](https://play.google.com/store/apps/details?id=app.thinka.klodmain)** &nbsp; · &nbsp; [Full-resolution preview](assets/klod-showcase.png)
+
+<br />
+
+<a href="https://apps.apple.com/us/app/readlens-ai-text-analyzer/id6761712530"><img src="assets/readlens-showcase.gif" width="100%" alt="ReadLens — real app logo and animated text capture, phrase highlighting and contextual explanation screenshots. Built with React Native and Expo." /></a>
+
+**[App Store ↗](https://apps.apple.com/us/app/readlens-ai-text-analyzer/id6761712530)** &nbsp; · &nbsp; [Full-resolution preview](assets/readlens-showcase.png)
+
+<br />
+
+<img src="assets/densy-showcase.gif" width="100%" alt="DENSY — real launcher logo and animated app screenshots showing guided baseline photos, hair progress charts and daily routines. Preparing for launch." />
+
+**Preparing for launch** &nbsp; · &nbsp; Store link coming after release &nbsp; · &nbsp; [Full-resolution preview](assets/densy-showcase.png)
+
 
 <br />
 
 ## What I can help you build
+
+<img src="assets/services-motion.gif" width="100%" alt="From an idea to a working app. New builds, unfinished products, integrations and release support." />
 
 | Your project needs | How I can help |
 | :--- | :--- |
@@ -62,6 +64,8 @@ Recent apps I've worked on, from AI-powered shopping and fashion to reading and 
 
 ## Toolbox
 
+<img src="assets/toolbox-motion.gif" width="100%" alt="A practical, connected toolbox. Flutter at the core, with mobile, web and backend skills around it." />
+
 **Core focus** &nbsp; Flutter · Dart · Firebase · REST API integration<br />
 **Also work with** &nbsp; React Native · Expo · Laravel · PHP · HTML · CSS<br />
 **Foundational knowledge** &nbsp; JavaScript · Node.js<br />
@@ -69,11 +73,13 @@ Recent apps I've worked on, from AI-powered shopping and fashion to reading and 
 
 <br />
 
-<img src="assets/workflow.svg" width="100%" alt="My workflow: understand requirements and code, build UI and integrations, debug and test affected flows, deliver store builds and handover." />
+<img src="assets/workflow-motion.gif" width="100%" alt="My workflow: understand requirements and code, build UI and integrations, debug and test affected flows, deliver store builds and handover." />
 
 <br />
 
 ## Demos & more work
+
+<img src="assets/demos-motion.gif" width="100%" alt="See the work in motion. Website demos, admin dashboards and more apps to explore." />
 
 **[Watch website demos ↗](https://www.youtube.com/watch?v=5krdn9JUgvQ&list=PLYxyiUXhaAEs)** &nbsp; · &nbsp; **[Watch admin dashboard demos ↗](https://www.youtube.com/watch?v=yLp8FOYTnjI&list=PLBmGb1G_Iox4)**
 
@@ -96,7 +102,7 @@ Public Flutter projects and learning explorations:
 
 <br />
 
-<a href="https://www.upwork.com/freelancers/~0166604c45ec612f0e"><img src="assets/contact.svg" width="100%" alt="Have an idea or an unfinished app? Let's build the next version. Discuss your project with Shazzad on Upwork." /></a>
+<a href="https://www.upwork.com/freelancers/~0166604c45ec612f0e"><img src="assets/contact-motion.gif" width="100%" alt="Have an idea or an unfinished app? Let's build the next version. Discuss your project with Shazzad on Upwork." /></a>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~0166604c45ec612f0e"><b>Discuss a project on Upwork ↗</b></a>

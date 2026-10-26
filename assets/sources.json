@@ -1,0 +1,33 @@
+{
+  "groc": {
+    "store": "https://apps.apple.com/us/app/groc-nutrition-label-scanner/id6755927614?uo=4",
+    "assets": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/a8/5c/f5a85cd3-c46e-15e3-39a9-3df639bdd20f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/81/14/d98114d8-ec58-dea1-71e7-4cbde3431a8f/GROC_iPhone_03_1179x2556.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/ff/1f/aeff1f35-d58d-766e-fd57-2a8310bc3333/GROC_iPhone_09_1179x2556.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/3c/0c/643c0cdf-feb7-55bf-8f39-75b33a0f08bf/GROC_iPhone_02_1179x2556.png/600x1300bb.jpg"
+    ]
+  },
+  "klod": {
+    "store": "https://apps.apple.com/us/app/klod-ai-virtual-try-on/id6762509336?uo=4",
+    "assets": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/ff/d178ff0f-6e88-ec8b-06c4-9cee8335d634/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/db/91/3ddb918b-770c-ce2f-b694-88950305b5f4/KLOD_01_1242x2688.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/5b/73/195b7333-bc2b-edab-4615-7bd827947d5a/KLOD_02_1242x2688.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/ac/f5/c8acf566-c154-83ee-fdaa-c57a357b226c/KLOD_03_1242x2688.png/600x1300bb.jpg"
+    ]
+  },
+  "readlens": {
+    "store": "https://apps.apple.com/us/app/readlens-ai-text-analyzer/id6761712530?uo=4",
+    "assets": [
+      "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/7a/a3/7c7aa3b9-1a12-e956-1ec1-2c7811741e71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/1b/13/9a1b13e0-ad7a-a5d7-69ac-f223415a9f49/ReadLens_White_01_1320x2868.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/9a/df/e59adf12-cce7-7dcb-7590-82c4a334bc14/ReadLens_White_02_1320x2868.png/600x1300bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4e/82/dc4e8296-8c69-8eb6-cfe1-aa1e9760588e/ReadLens_White_03_1320x2868.png/600x1300bb.jpg"
+    ]
+  },
+  "densy": {
+    "source": "Local DENSY project: configured launcher icon and release-preparation screenshots, 2026-10-17",
+    "status": "Preparing for launch"
+  }
+}
